@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/rtl_sdr_1.dir/main.cpp.o -o rtl_sdr_1  -Wl,-rpath,/home/wow/Desktop/rtl_sdr_1/rtl_sdr_p1/build/RtlSdr:/home/wow/Desktop/rtl_sdr_1/rtl_sdr_p1/build/SignalProcessing ../RtlSdr/libRtlSdrlib.so ../SignalProcessing/libSignalProcessinglib.so 
