@@ -1,0 +1,11 @@
+/home/wow/Desktop/rtl_sdr_1/rtl_sdr_p1/build/CMakeFiles/edit_cache.dir
+/home/wow/Desktop/rtl_sdr_1/rtl_sdr_p1/build/CMakeFiles/rebuild_cache.dir
+/home/wow/Desktop/rtl_sdr_1/rtl_sdr_p1/build/RtlSdr/CMakeFiles/RtlSdrlib.dir
+/home/wow/Desktop/rtl_sdr_1/rtl_sdr_p1/build/RtlSdr/CMakeFiles/edit_cache.dir
+/home/wow/Desktop/rtl_sdr_1/rtl_sdr_p1/build/RtlSdr/CMakeFiles/rebuild_cache.dir
+/home/wow/Desktop/rtl_sdr_1/rtl_sdr_p1/build/SignalProcessing/CMakeFiles/SignalProcessinglib.dir
+/home/wow/Desktop/rtl_sdr_1/rtl_sdr_p1/build/SignalProcessing/CMakeFiles/edit_cache.dir
+/home/wow/Desktop/rtl_sdr_1/rtl_sdr_p1/build/SignalProcessing/CMakeFiles/rebuild_cache.dir
+/home/wow/Desktop/rtl_sdr_1/rtl_sdr_p1/build/rtl_sdr_1/CMakeFiles/rtl_sdr_1.dir
+/home/wow/Desktop/rtl_sdr_1/rtl_sdr_p1/build/rtl_sdr_1/CMakeFiles/edit_cache.dir
+/home/wow/Desktop/rtl_sdr_1/rtl_sdr_p1/build/rtl_sdr_1/CMakeFiles/rebuild_cache.dir
